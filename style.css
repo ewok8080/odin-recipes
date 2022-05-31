@@ -1,0 +1,35 @@
+body {background-color: rgb(255, 211, 211);
+     }
+
+h1 {
+    background-color: rgb(72, 175, 248);
+    color: rgb(238, 9, 241);
+    font-size: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+
+h3 {
+    font-size: 40px;
+    color: aquamarine;
+}    
+
+.jazzg1 {
+    height: auto;
+    width: 300px;
+    }
+
+.text{
+    color: rgb(238,9,241);
+    font-size: 20px;
+    }
+
+.child,
+.child2 {
+    color: rgb(9, 241, 59);
+    }
+
+.child2{
+    font-size: 25px;
+    font-family:Georgia, 'Times New Roman', Times, serif
+    }
+
